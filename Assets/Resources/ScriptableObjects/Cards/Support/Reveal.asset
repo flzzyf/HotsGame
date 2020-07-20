@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dbe42d7d1dfc9714e80d98f280b3ac9c, type: 3}
+  m_Name: Reveal
+  m_EditorClassIdentifier: 
+  cd: 2
+  icon: {fileID: 21300000, guid: d433e26d0d687b14c9e98f5f2b7d0588, type: 3}
+  cardName: "\u6D1E\u5BDF\u5148\u673A"
+  info: "\u968F\u673A\u67E5\u770B\u724C\u7EC4\u4E2D\u7684\u4E24\u5F20\u724C, \u6253\u51FA\u5176\u4E2D\u4E00\u5F20"
+  type: 2
+  effect: {fileID: 11400000, guid: 9c93bb01b8654e042a0f2a96f26a2f84, type: 2}

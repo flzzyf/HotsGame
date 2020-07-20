@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dbe42d7d1dfc9714e80d98f280b3ac9c, type: 3}
+  m_Name: Parry
+  m_EditorClassIdentifier: 
+  cd: 0
+  icon: {fileID: 21300000, guid: a64092584b180d34ea18b571fd67286d, type: 3}
+  cardName: "\u683C\u6321"
+  info: "\u4F7F\u4F60\u4E0B\u6B21\u53D7\u5230\u7684\u4F24\u5BB3\u51CF\u5C118\u70B9"
+  type: 1
+  effect: {fileID: 11400000, guid: 9c7c6e8e08939ff448432b3f525b973c, type: 2}

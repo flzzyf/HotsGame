@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98f2eae33c0ebe44c909ba1cc03be63c, type: 3}
+  m_Name: Guldan
+  m_EditorClassIdentifier: 
+  hpMax: 15
+  unitName: "\u53E4\u5C14\u4E39"
+  damage: 1
+  portrait: {fileID: 21300000, guid: 8aefced9f719b44439a183793241b688, type: 3}
+  cards:
+  - {fileID: 11400000, guid: 3955cf7f3a45dac468c238441113005d, type: 2}
+  - {fileID: 11400000, guid: 3955cf7f3a45dac468c238441113005d, type: 2}
+  - {fileID: 11400000, guid: 3a7a9eebfa7e1124fb77e08b1381e10e, type: 2}
+  - {fileID: 11400000, guid: 3a7a9eebfa7e1124fb77e08b1381e10e, type: 2}
+  - {fileID: 11400000, guid: 600f754e8152e63449788d07ec268250, type: 2}
